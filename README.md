@@ -3,9 +3,11 @@
    ![image](https://github.com/Summaw/player-hud/assets/98126132/e8c5e82e-7944-4b09-bbd3-17042aac0db6)
 
 
-***Created based off of qb-hud https://github.com/qbcore-framework/qb-hud
+***Created based off of qb-hud***
 
-***Framework: https://github.com/qbcore-framework
+link: https://github.com/qbcore-framework/qb-hud
+
+***Framework:*** https://github.com/qbcore-framework
 
 
 Preview:
